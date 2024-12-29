@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.ua setf lilscript
+au BufRead,BufNewFile *.lils setf lilscript
